@@ -27,7 +27,8 @@
 }
 .aboutNextCardsMainBlueBg{
     background: url(./Assets/blueBg.svg) no-repeat;
-    height: 1000px;
+    height: 710px;
+    margin-bottom: 150px;
 }
 
 #TheExecutiveTeam{

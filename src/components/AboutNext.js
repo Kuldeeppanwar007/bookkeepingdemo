@@ -8,6 +8,7 @@ import PersonCard from "./PersonCard";
 import userProfile from "./Assets/userProfile.svg";
 import userProfile2 from "./Assets/userProfile2.svg";
 import userProfile3 from "./Assets/userProfile3.svg";
+import final from "./Assets/final.svg";
 
 const AboutNext = () => {
   return (
@@ -121,6 +122,9 @@ const AboutNext = () => {
               </div>
             </div>
           </div>
+        </div>
+        <div  className="d-flex justify-content-center">
+          <img src={final}/>
         </div>
       </div>
     </>
