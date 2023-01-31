@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bookkeepingdemo/static/css/main.8e3993bd.css",
-    "main.js": "/bookkeepingdemo/static/js/main.6e2bd9c4.js",
+    "main.css": "/bookkeepingdemo/static/css/main.a9055fc7.css",
+    "main.js": "/bookkeepingdemo/static/js/main.3a11a4eb.js",
     "static/js/787.28cb0dcd.chunk.js": "/bookkeepingdemo/static/js/787.28cb0dcd.chunk.js",
     "static/media/final.svg": "/bookkeepingdemo/static/media/final.9f811c06d57b852d0e8878ce8289865e.svg",
     "static/media/aboutImg.png": "/bookkeepingdemo/static/media/aboutImg.47bb00aa6f28f41dfd2e.png",
@@ -11,6 +11,7 @@
     "static/media/userProfile2.svg": "/bookkeepingdemo/static/media/userProfile2.a710bcbd470200b329375914d10f0573.svg",
     "static/media/logo.png": "/bookkeepingdemo/static/media/logo.ce0044b26823c621e0c7.png",
     "static/media/logow.svg": "/bookkeepingdemo/static/media/logow.01e2762303e887cd0679d6348bcee7da.svg",
+    "static/media/formBg.svg": "/bookkeepingdemo/static/media/formBg.6ccd35c8cc264584b855.svg",
     "static/media/insta.svg": "/bookkeepingdemo/static/media/insta.25fa999e554582ac7ca15cd083b1ce44.svg",
     "static/media/projects.svg": "/bookkeepingdemo/static/media/projects.831cb7b8c33a38e4086b32e32493c642.svg",
     "static/media/twitter.svg": "/bookkeepingdemo/static/media/twitter.cbfd06662196663593ab4a757a91145a.svg",
@@ -21,12 +22,12 @@
     "static/media/blueBg.svg": "/bookkeepingdemo/static/media/blueBg.345aabd07b3a99a79b84.svg",
     "static/media/fb.svg": "/bookkeepingdemo/static/media/fb.c948d1e9cd578ad9cafb63dfe747c076.svg",
     "static/media/bar.svg": "/bookkeepingdemo/static/media/bar.cdbb3860a8034bbfbdcbb1e829618fa7.svg",
-    "main.8e3993bd.css.map": "/bookkeepingdemo/static/css/main.8e3993bd.css.map",
-    "main.6e2bd9c4.js.map": "/bookkeepingdemo/static/js/main.6e2bd9c4.js.map",
+    "main.a9055fc7.css.map": "/bookkeepingdemo/static/css/main.a9055fc7.css.map",
+    "main.3a11a4eb.js.map": "/bookkeepingdemo/static/js/main.3a11a4eb.js.map",
     "787.28cb0dcd.chunk.js.map": "/bookkeepingdemo/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e3993bd.css",
-    "static/js/main.6e2bd9c4.js"
+    "static/css/main.a9055fc7.css",
+    "static/js/main.3a11a4eb.js"
   ]
 }
