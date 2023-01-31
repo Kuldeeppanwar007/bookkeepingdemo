@@ -29,7 +29,7 @@
     background: url(./Assets/blueBg.svg) no-repeat;
     height: 710px;
     /* width: auto; */
-    /* background-size: cover; */
+    background-size: cover;
     margin-bottom: 150px;
 }
 

@@ -1,3 +1,7 @@
+.formMain{
+    background: url(./Assets/formBg.svg) no-repeat;
+    background-size: cover;
+}
 .FormCardMain{
     background: #fff;
     border-radius: 10px;

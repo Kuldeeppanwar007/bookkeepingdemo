@@ -4,7 +4,7 @@ import "./Form.css";
 const Form = () => {
   return (
     <>
-      <div className="d-flex justify-content-center m-4">
+      <div className="d-flex justify-content-center m-4 formMain">
         <div className="FormCardMain px-5 py-4">
           <div className="d-flex justify-content-center flex-column">
             <div className="d-flex justify-content-center">
