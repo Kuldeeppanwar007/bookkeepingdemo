@@ -1,0 +1,16 @@
+.footerMain{
+    background: #2D3891;
+}
+.footerInner{
+
+    width: 80%;
+}
+.footerSocial{
+    background: #fff;
+    border-radius: 50px;
+    height: 34px;
+    width: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

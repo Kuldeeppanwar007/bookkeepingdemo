@@ -3,6 +3,8 @@
 import About from './components/About';
 import AboutNext from './components/AboutNext';
 import Navbar from './components/Navbar';
+import Form from './components/Form'
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
        <Navbar />
        <About/>
        <AboutNext/>
+       <Form/>
+       <Footer/>
     </div>
   );
 }

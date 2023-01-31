@@ -1,0 +1,27 @@
+.FormCardMain{
+    background: #fff;
+    border-radius: 10px;
+    width: 70%;
+    box-shadow: 0px 6px 64px rgba(0, 0, 0, 0.05);
+
+}
+
+#formH2{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+    color: #2D3891;
+    text-decoration: underline;
+}
+.form-check-label-color{
+   color: rgba(135, 135, 135, 1);
+}
+
+.formSubmitBtn{
+    background: #2D3891 !important;
+    border-radius: 10px;
+    border: none !important;
+    width: 422px;
+    height: 50px;
+}
